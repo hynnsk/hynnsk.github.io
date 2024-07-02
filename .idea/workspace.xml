@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b6e9782-ffc8-4a82-a1cf-f894806ce881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/hyunseok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/skku_icon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719904014635</updated>
-      <workItem from="1719904015928" duration="8988000" />
+      <workItem from="1719904015928" duration="11289000" />
     </task>
     <servers />
   </component>
