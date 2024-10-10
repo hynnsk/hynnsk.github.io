@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b6e9782-ffc8-4a82-a1cf-f894806ce881" name="Changes" comment="update-240718 5">
+    <list default="true" id="2b6e9782-ffc8-4a82-a1cf-f894806ce881" name="Changes" comment="update-240829 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CV_of_Hyun_Seok_Seong_20240711.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CV_of_Hyun_Seok_Seong_20240718.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/images/CV_of_Hyun_Seok_Seong_20241010.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,8 @@
       <workItem from="1721296142502" duration="283000" />
       <workItem from="1721296593801" duration="33000" />
       <workItem from="1721297715474" duration="48000" />
-      <workItem from="1724908110748" duration="594000" />
+      <workItem from="1724908110748" duration="1501000" />
+      <workItem from="1728562323279" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="update-240711">
       <created>1720705919080</created>
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721297741962</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update-240829 1">
+      <created>1724909939564</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724909939564</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +136,7 @@
     <MESSAGE value="update-240718 3" />
     <MESSAGE value="update-240718 4" />
     <MESSAGE value="update-240718 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update-240718 5" />
+    <MESSAGE value="update-240829 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update-240829 1" />
   </component>
 </project>
