@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b6e9782-ffc8-4a82-a1cf-f894806ce881" name="Changes" comment="update-260221-2">
-      <change afterPath="$PROJECT_DIR$/images/CV_of_Hyun_Seok_Seong_20260326.pdf" afterDir="false" />
+    <list default="true" id="2b6e9782-ffc8-4a82-a1cf-f894806ce881" name="Changes" comment="update-260326-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/CV_of_Hyun_Seok_Seong_20260221.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +72,8 @@
       <workItem from="1769772622172" duration="1610000" />
       <workItem from="1770012107284" duration="137000" />
       <workItem from="1771660322098" duration="1003000" />
-      <workItem from="1774529076129" duration="20000" />
+      <workItem from="1774529076129" duration="34000" />
+      <workItem from="1774854552150" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="update-240711">
       <created>1720705919080</created>
@@ -300,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771661132661</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update-260326-1">
+      <created>1774529101282</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1774529101282</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update-240829 1" />
     <MESSAGE value="update-241010 1" />
     <MESSAGE value="update-241108 1" />
     <MESSAGE value="update-241110 1" />
@@ -343,6 +348,7 @@
     <MESSAGE value="update-260202-1" />
     <MESSAGE value="update-260221-1" />
     <MESSAGE value="update-260221-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update-260221-2" />
+    <MESSAGE value="update-260326-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update-260326-1" />
   </component>
 </project>
